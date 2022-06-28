@@ -8,12 +8,12 @@ After this, to analyze the degree distribution of the networks, we plot the Prob
 
 
 * In 2_Models I implemented many generators of complex networks models: 
-- Erdös-Rényi (ER) networks, either G(N,K) or G(N,p)
-- Watts-Strogatz (WS) small-world model
-- Barabási & Albert (BA) preferential attachment model
-- Configuration Model (CM)
+  - Erdös-Rényi (ER) networks, either G(N,K) or G(N,p)
+  - Watts-Strogatz (WS) small-world model
+  - Barabási & Albert (BA) preferential attachment model
+  - Configuration Model (CM)
 
-There's also an estimation of the exponent for the empirical degree distributions of BA and CM (SF).
+  There's also an estimation of the exponent for the empirical degree distributions of BA and CM (SF).
 
 
 * In 3_CommunityDetection I tried many community detection algoithms on different networks. Then I compared the results obtained with some reference clusterings uisng as metrics Jaccard Index, Normalized Mutual Information (arithmetic normalization), and Normalized Variation of Information. 
