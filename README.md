@@ -16,7 +16,7 @@ After this, to analyze the degree distribution of the networks, we plot the Prob
   There's also an estimation of the exponent for the empirical degree distributions of BA and CM (SF).
 
 
-* In 3_CommunityDetection I tried many community detection algoithms on different networks. Then I compared the results obtained with some reference clusterings uisng as metrics Jaccard Index, Normalized Mutual Information (arithmetic normalization), and Normalized Variation of Information. 
+* In 3_CommunityDetection I tried many community detection algorithms on different networks. Then I compared the results obtained with some reference clusterings uisng as metrics Jaccard Index, Normalized Mutual Information (arithmetic normalization), and Normalized Variation of Information. 
 
 
 * In 4_Dynamics I implemented a Monte Carlo simulation of an epidemic spreading dynamics in complex networks, using the SIS model in which each node represents an individual which can be in two possible state: Susceptible (S), i.e. healthy but can get infected; Infected (I), i.e. has the disease and can spread it to the neighbors.  
